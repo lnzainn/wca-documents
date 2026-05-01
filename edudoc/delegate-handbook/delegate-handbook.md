@@ -1185,7 +1185,7 @@ The account page should look like this:
 ![](images/account-page.jpg){.centered width=60%}
 :::::
 
-Personal information may be edited by Delegates and organizers for an account without a WCA ID. Only the WRT may make changes to accounts with WCA IDs (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section below). Most of the time, Delegates can remove the linked WCA ID from one account and assign it to another account. There are some exceptions that the WRT must handle instead. The personal data fields in both accounts must match for a WCA ID to link to an account.
+Personal information may be edited by Delegates and organizers for an account without a WCA ID. Only the WRT may make changes to accounts with WCA IDs (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section below). Most of the time, Delegates can remove the linked WCA ID from one account and assign it to another account. On the contrary, if the competitor with a WCA ID registers as a newcomer, and requests to have their results from this competition along with the WCA ID be associated with their older email, then create the person as a newcomer and inform WRT about this situation. There are some exceptions that the WRT must handle instead. The personal data fields in both accounts must match for a WCA ID to link to an account.
 
 ### Handling WCA ID Claims
 
